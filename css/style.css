@@ -290,6 +290,7 @@ border-radius: 6px;
   margin-top: -28px;
   margin-left: 48px;
   margin-right: 16px;
+  flex-grow: 1;
 }
 
 .main__description {
