@@ -170,19 +170,19 @@ body {
 
 .navigation__link:hover {
   background-color: #ffffff;
-  border: 2px solid #B8FFEC;
+  outline: 2px solid #B8FFEC;
   border-radius: 6px;
 }
 
 .navigation__link:focus {
   background-color: #ffffff;
-  border: 2px solid #B8FFEC;
+  outline: 2px solid #B8FFEC;
   border-radius: 6px;
 }
 
 .navigation__link:active {
   color: red;
-  border: 2px solid red;
+  outline: 2px solid red;
   border-radius: 6px;
 }
 
